@@ -1,0 +1,14 @@
+.news-header {
+    font-size: 20px;
+}
+.news-paragraph {
+    font-size: 14px;
+}
+.news-list {
+    list-style-type: disc;
+}
+.news-list-item {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+}
