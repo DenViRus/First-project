@@ -4,3 +4,9 @@ font-size: 20px;
 .project-paragraph {
 font-size: 14px;
 }
+
+.link-to-news {
+    font-size: 12px;
+    color: red;
+    text-decoration: none;
+}
